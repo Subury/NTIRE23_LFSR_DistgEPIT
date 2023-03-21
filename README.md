@@ -69,7 +69,7 @@ MODEL_PATH=checkpoints/DistgSSR_32x8_6x6x64_finetune.pth
 ```
 
 ### training dataset prepare
-![](./图像1.png)
+![](图片 1.png)
 
 ### training method
 
